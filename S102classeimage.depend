@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1704814894 source:z:\s102 image\s102classeimage\filtre.cpp
+	"filtre.h"
+	"image.h"
+	<fstream>
+	<iostream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1704814435 z:\s102 image\s102classeimage\filtre.h
+	<iostream>
+	<vector>
+	"image.h"
+
+1704826050 z:\s102 image\s102classeimage\image.h
+	<iostream>
+	<vector>
+
+1704826062 source:z:\s102 image\s102classeimage\image.cpp
+	"filtre.h"
+	"image.h"
+	<fstream>
+	<iostream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1704826050 source:z:\s102 image\s102classeimage\main.cpp
+	"filtre.h"
+	"image.h"
+	<iostream>
+	<string>
+	<vector>
+
+1704826062 source:z:\s1\s102 image\s102classeimage\image.cpp
+	"filtre.h"
+	"image.h"
+	<fstream>
+	<iostream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1734334116 z:\s1\s102 image\s102classeimage\filtre.h
+	<iostream>
+	<vector>
+	"image.h"
+
+1704826050 z:\s1\s102 image\s102classeimage\image.h
+	<iostream>
+	<vector>
+
+1704826276 source:z:\s1\s102 image\s102classeimage\main.cpp
+	"filtre.h"
+	"image.h"
+	<iostream>
+	<string>
+	<vector>
+
