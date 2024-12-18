@@ -1,4 +1,4 @@
-# BUT Informatique 1st year project.  |  Projet de premiere année de BUT informatique
+# Computer science Bachelor 1st year project.  |  Projet de premiere année de BUT informatique
  
 ## Image editor for .ppm files | Editeur d'images .ppm
 
